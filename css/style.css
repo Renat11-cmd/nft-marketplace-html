@@ -6,7 +6,18 @@ body, p, h1{
     padding-left: 8%;
     padding-right: 8%;
 }
-
+.w-250{
+    width: 250px;
+}
+.mt-120{
+    margin-top: 120px;
+}
+.ai-c{
+    align-items: center;
+}
+.mt-250{
+    margin-top: 250px;
+}
 .mt-40{
     margin-top: 40px;
 }
@@ -122,4 +133,27 @@ input::placeholder{
 
 .statistics{
     width: 70%;
+}
+.title_small{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'DM Sans', sans-serif;
+}
+.subtitle{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #565656;
+    line-height: 32px;
+}
+.subtitle_small{
+    font-size: 14px;
+    color: #565656;
+    line-height: 22px;
+}
+.statistics{
+    width: 70%;
+}
+.features_block{
+    height: 320px;
 }
